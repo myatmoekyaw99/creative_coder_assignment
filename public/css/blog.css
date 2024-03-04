@@ -1,0 +1,13 @@
+*,html{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+div{
+    width: 800px;
+    margin:20px auto;
+    background-color: whitesmoke;
+}
+.bg-red{
+    background-color: red;
+}
